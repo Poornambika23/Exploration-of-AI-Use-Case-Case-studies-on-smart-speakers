@@ -7,6 +7,9 @@ To study the application of Artificial Intelligence in smart speakers and unders
 Artificial Intelligence is a technology that enables machines to perform tasks that normally require human intelligence. These tasks include understanding language, learning from data, recognising speech, and making decisions.
 Smart speakers are electronic devices that use AI to interact with users through voice commands. They can answer questions, play music, set alarms, provide weather updates, control smart home appliances, and perform many other tasks.
 
+<img width="987" height="551" alt="image" src="https://github.com/user-attachments/assets/4da0d345-33d6-4c87-86d8-d75384f60e14" />
+
+
 **Popular examples of AI-powered smart speakers include:**
 
 1. Amazon Echo (Alexa)
